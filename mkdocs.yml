@@ -1,8 +1,9 @@
 site_name: Clash Verge Rev Docs
-repo_name: clash-verge-rev
-repo_url: https://github.com/clash-verge-rev/clash-verge-rev
+site_url: https://pixeloverflow.github.io/ycqdvpn/
+repo_name: pixeloverflow/ycqdvpn
+repo_url: https://github.com/pixeloverflow/ycqdvpn
 copyright: Copyright &copy 2023-2026 clash-verge-rev
-edit_uri: https://github.com/clash-verge-rev/clash-verge-rev.github.io/tree/main/docs
+edit_uri: edit/main/docs/
 
 # dev服务器监听地址
 dev_addr: 127.0.0.1:7788
@@ -11,9 +12,6 @@ use_directory_urls: false
 
 # 导航设置
 nav:
-  - 简介: 
-      - 简介: index.md
-      - 快速入门: guide/quickstart.md
   - 下载、安装与卸载: 
       - 下载与安装: install.md
       - 快速入门: guide/quickstart.md
