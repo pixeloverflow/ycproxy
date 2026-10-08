@@ -73,7 +73,7 @@ curl -A clash-verge/v2.4.0 ‘引号内粘贴订阅链接’
 
 ## XD
 
-- 一般指[metacubexd](https://github.com/MetaCubeX/metacubexd)，是一个基于 `Mihomo` 的 WEB UI 面板。更多面板详见[友情链接](../friendship.md#web-ui)。
+- 一般指[metacubexd](https://github.com/MetaCubeX/metacubexd)，是一个基于 `Mihomo` 的 WEB UI 面板。
 
 ## ZASH
 
